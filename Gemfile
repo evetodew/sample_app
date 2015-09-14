@@ -7,6 +7,7 @@ gem 'bcrypt', '3.1.7'
 gem 'ruby', '2.0.0'
 gem 'bootstrap-sass', '3.2.0.0'
 gem 'tzinfo-data'
+#another change, just a test line
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
